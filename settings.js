@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
+global.owner = ['94772724220']
+global.premium = ['94772724220']
+global.ownernomer = '94772724220'
+global.ownername = 'Rᷢaⷶsᷤtͭhͪaⷶ mͫuͧrͬuͧ'
+global.botname = 'Rᷢaⷶsᷤtͭhͪaⷶ mͫuͧrͬuͧ'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/darkalphaxteam'
 global.region = 'India, South India, Kerala'
@@ -35,16 +35,16 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Please Wait...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    success: 'හරි ✓',
+    admin: 'මෙම පහසුකම ඇඩ්මින්ට පමණි!',
+    botAdmin: 'ප්‍රථමයෙන් Bot හට ඇඩ්මින් ලැබිය යුතුයි!',
+    owner: 'මෙම පහසුකම වෝනර් හට පමණි!',
+    group: 'මෙම පහසුකම සමූහය තුළ පමණි!',
+    private: 'මෙම පහසුකම පව්ද්ගලික කතාබස් තුල පමණි!',
+    bot: 'මෙම පහසුකමBot හට පමණි!',
+    wait: 'මදක් රැඳී සිටින්න...',
+    error: 'අව්ලකි! Api Key එක කල් ඉකුත් වී ඇත🤔!',
+    endLimit: 'ඔබගේ දිනයට අදාල වාර ගනණ අවසන්, රීසෙට් කර ඊලඟ පැය දෙකේ උත්සාහ කරන්න!',
 }
     global.limitawal = {
     premium: "Infinity",
